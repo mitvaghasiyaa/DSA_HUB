@@ -1,4 +1,4 @@
-package com.dsahub.fibonacci;
+package com.dsahub.basics.fibonacci;
 
 public class RecursionFibonacci {
 
